@@ -1,0 +1,1 @@
+ALTER SERVER ROLE [sysadmin] ADD MEMBER [NT AUTHORITY\система];

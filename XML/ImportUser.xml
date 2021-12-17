@@ -1,0 +1,37 @@
+﻿<Users>
+  <User>
+    <Username>Admin</Username>
+    <FirstName>Daniil</FirstName>
+    <LastName>Alsevich</LastName>
+    <Password>46/tAEewgFnQ+toQ9ADB5Q==</Password>
+    <Role>1</Role>
+  </User>
+  <User>
+    <Username>Admin2</Username>
+    <FirstName>Mark</FirstName>
+    <LastName>Shagal</LastName>
+    <Password>Ie7U8umrIU/b8AoqCR1jxA==</Password>
+    <Role>1</Role>
+  </User>
+  <User>
+    <Username>Gachi</Username>
+    <FirstName>Billy</FirstName>
+    <LastName>Heringhton</LastName>
+    <Password>iyb/uT4DWW5lFOlghfZA2Q==</Password>
+    <Role>2</Role>
+  </User>
+  <User>
+    <Username>Capital</Username>
+    <FirstName>Karl</FirstName>
+    <LastName>Marks</LastName>
+    <Password>xWzMahMh5m3dlP5DC4ofgg==</Password>
+    <Role>2</Role>
+  </User>
+  <User>
+    <Username>StarWars</Username>
+    <FirstName>Obi-van</FirstName>
+    <LastName>Kenobi</LastName>
+    <Password>WvKQSkxz9NaeOyl0YkQMFQ==</Password>
+    <Role>2</Role>
+  </User>
+</Users>

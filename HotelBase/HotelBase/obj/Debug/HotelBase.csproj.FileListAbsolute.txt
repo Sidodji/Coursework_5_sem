@@ -1,0 +1,14 @@
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\bin\Debug\HotelBase.exe.config
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\bin\Debug\HotelBase.exe
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\bin\Debug\HotelBase.pdb
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\obj\Debug\HotelBase.Properties.Resources.resources
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\obj\Debug\HotelBase.csproj.GenerateResource.cache
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\obj\Debug\HotelBase.csproj.CoreCompileInputs.cache
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\obj\Debug\HotelBase.exe
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\obj\Debug\HotelBase.pdb
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\obj\Debug\HotelBase.Login.resources
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\obj\Debug\HotelBase.Registration.resources
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\obj\Debug\HotelBase.Admin.resources
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\obj\Debug\HotelBase.User.resources
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\obj\Debug\HotelBase.Reservation.resources
+D:\Laboratory\CourseWork\HotelsBase\HotelBase\HotelBase\obj\Debug\HotelBase.csproj.AssemblyReference.cache
